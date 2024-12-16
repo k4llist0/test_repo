@@ -8,7 +8,7 @@
             "objectKey": "FUNCTION_EXISTS",
             "softwareComponent": "SAP_BASIS",
             "applicationComponent": "TEST",
-            "state": "noClassicAPI",
+            "state": "classicAPI",
             "labels": []
         },
         {
@@ -18,7 +18,7 @@
             "objectKey": "FUNCTION_SEARCH",
             "softwareComponent": "SAP_BASIS",
             "applicationComponent": "TEST",
-            "state": "noClassicAPI",
+            "state": "classicAPI",
             "labels": []
         }
     ]
